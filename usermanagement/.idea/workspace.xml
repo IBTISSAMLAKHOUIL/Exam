@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bda2c5b4-638f-4799-a8c3-6c4451c8c4c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Application-main(1)/E-Commerce-Application-main/E-Commerce-Application-main/.idea/E-Commerce-Application-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Application-main(2)/.idea/E-Commerce-Application-main(2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Application-main(2)/E-Commerce-Application-main/.idea/E-Commerce-Application-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Application-main/.idea/E-Commerce-Application-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../E-Commerce-Application-main/E-Commerce-Application-main/E-Commerce-Application-main/.idea/E-Commerce-Application-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IBTISSAM LAKHOUIL-17.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/.idea/regisauth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/Enums/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/Enums/Sexe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/config/JWTAuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/controller/UtilisateurManagementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/dto/AdminDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/dto/EtudiantDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/dto/LoueurDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/entity/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/entity/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/entity/Loueur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/repository/AdminRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/repository/EtudiantRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/repository/LoueurRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/service/EtudiantDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/service/EtudiantManagementService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/service/JWTUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/java/com/micro1/regisauth/service/UtilisateurManagementService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/resources/templates/registerETU.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../regisauth/regisauth/src/main/resources/templates/registerPRO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/3e4c0e26-a8d5-4e83-928c-3748384dea24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6e77a78f-e795-4a6d-b6c1-2d4af4d8c761.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6e77a78f-e795-4a6d-b6c1-2d4af4d8c761/storage_v2/_src_/schema/users_management.2qp2Eg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/usermanagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usermanagement/src/main/java/com/usermanagement/config/JWTAuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usermanagement/src/main/java/com/usermanagement/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usermanagement/src/main/java/com/usermanagement/controller/UserManagementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usermanagement/src/main/java/com/usermanagement/dto/ReqRes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usermanagement/src/main/java/com/usermanagement/entity/OurUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usermanagement/src/main/java/com/usermanagement/repository/UsersRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usermanagement/src/main/java/com/usermanagement/service/JWTUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usermanagement/src/main/java/com/usermanagement/service/OurUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usermanagement/src/main/java/com/usermanagement/service/UsersManagementService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2pPPXCwaTzBSlrqss3be4Z53GHA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.UsermanagementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="UsermanagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="usermanagement" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usermanagement.UsermanagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda2c5b4-638f-4799-a8c3-6c4451c8c4c6" name="Changes" comment="" />
+      <created>1732664774757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732664774757</updated>
+      <workItem from="1732664775846" duration="3087000" />
+      <workItem from="1732767998954" duration="15734000" />
+      <workItem from="1732964803538" duration="2203000" />
+      <workItem from="1733238217488" duration="10954000" />
+      <workItem from="1733649935879" duration="9352000" />
+      <workItem from="1733673095216" duration="1121000" />
+      <workItem from="1733674644365" duration="637000" />
+      <workItem from="1733675294076" duration="501000" />
+      <workItem from="1733678348755" duration="1460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/usermanagement/src/main/java/com/usermanagement/service/UsersManagementService.java</url>
+          <line>320</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
